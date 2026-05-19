@@ -10,7 +10,7 @@ const CONFIG = {
 
   // URL de tu Google Apps Script desplegado como Web App
   // Sigue el README para crear y desplegar el script
-  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxCRzM4QfFpw6KIgDTceM_C5LCVla3kb2nkeeA_AciYu8OAELUbHZa-5SXHkZJ8sAH-/exec",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxttXuwjo-nQU5ZQ8wC3zdplwaOcz_Hv3GiWsjyaMHu88P359A5m_osOsrZuc-_gC3A/exec",
 
   // Nombre de tu empresa / planta (aparece en el encabezado)
   EMPRESA: "Almacén de Granos",
