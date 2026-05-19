@@ -6,11 +6,11 @@
 const CONFIG = {
   // ID de tu Google Sheet (está en la URL de la hoja)
   // Ejemplo: https://docs.google.com/spreadsheets/d/ESTE_ES_EL_ID/edit
-  SHEET_ID: "PEGA_AQUI_TU_SHEET_ID",
+  SHEET_ID: "1Faxagi1DnsQCshIt6IzhDnTnFOZmKJJo6BYJxI8Rvic",
 
   // URL de tu Google Apps Script desplegado como Web App
   // Sigue el README para crear y desplegar el script
-  APPS_SCRIPT_URL: "PEGA_AQUI_TU_APPS_SCRIPT_URL",
+  APPS_SCRIPT_URL: "https://script.google.com/macros/s/AKfycbxCRzM4QfFpw6KIgDTceM_C5LCVla3kb2nkeeA_AciYu8OAELUbHZa-5SXHkZJ8sAH-/exec",
 
   // Nombre de tu empresa / planta (aparece en el encabezado)
   EMPRESA: "Almacén de Granos",
